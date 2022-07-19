@@ -19,10 +19,7 @@ Project files<br>
 1. `event_data`: To process and create a new CSV file in Python.
 2. `Project_1B_ Project_Template.ipynb`: The code file.
 3. `event_datafile_new.csv`: Dataset to create a denormalized dataset.
-4. `imgs`: 
 5. `README.md`: Provides discussion on the project.
-
-### ETL pipeline
 
 ### How to run the Python Scripts
 
