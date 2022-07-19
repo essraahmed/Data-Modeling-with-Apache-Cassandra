@@ -26,8 +26,7 @@ Project files<br>
 
 ### How to run the Python Scripts
 
-Launch Project_1B_ Project_Template.ipynb to run.
+Launch `Project_1B_ Project_Template.ipynb` to run.
 
 ### Author
 Esraa Ahmed | [a link](https://bit.ly/3B8d5Am).
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
