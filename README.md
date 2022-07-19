@@ -22,6 +22,7 @@ Project files<br>
 1. `event_data`: To process and create a new CSV file in Python.
 2. `Project_1B_ Project_Template.ipynb`: The code file.
 3. `event_datafile_new.csv`: Dataset to create a denormalized dataset.
+4. `images`: contain images.
 5. `README.md`: Provides discussion on the project.
 
 ### How to run the Python Scripts
@@ -29,4 +30,4 @@ Project files<br>
 Launch `Project_1B_ Project_Template.ipynb` to run.
 
 ### Author
-Esraa Ahmed | [linkedin](https://bit.ly/3B8d5Am).
+Esraa Ahmed | <a href="https://linkedin.com/in/esraa-ahmed-ibrahim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-ahmed-ibrahim2" height="15" width="15" /></a>
