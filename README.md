@@ -29,4 +29,4 @@ Project files<br>
 Launch `Project_1B_ Project_Template.ipynb` to run.
 
 ### Author
-Esraa Ahmed | [a link](https://bit.ly/3B8d5Am).
+Esraa Ahmed | [linkedin](https://bit.ly/3B8d5Am).
